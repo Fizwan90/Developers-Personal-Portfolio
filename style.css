@@ -1,0 +1,188 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+    padding: 0px;
+
+}
+
+
+.verticle-line {
+    border-left: 5px solid tomato;
+    height: 130px;
+    padding: 20px;
+    margin: 20px;
+
+}
+
+h1 {
+    font-size: 2.5pc;
+    color: black;
+}
+
+.expedition {
+    color: greenyellow;
+}
+
+.Year {
+    color: orange;
+}
+
+.top-banner {
+    display: flex;
+    margin-bottom: 200px;
+}
+
+.top-banner img {
+    width: 50%;
+}
+
+.flexible-container {
+    margin-bottom: 200px;
+    align-items: center;
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 5%;
+}
+
+.half-width img {
+    width: 100%;
+}
+
+.link-button {
+    text-decoration: none;
+    padding: 10px 20px;
+    color: white;
+    background-image: linear-gradient(100 deg orange tomato);
+    background-color: orange;
+    border-radius: 5px;
+    font-weight: 700;
+}
+
+.link-button:hover {
+    background-color: purple;
+    color: violet;
+    cursor: pointer;
+    transition: 0.10s;
+}
+
+.mission-2022 {
+    text-align: center;
+    margin-top: 300px;
+
+}
+
+.Terget-2022 {
+    color: royalblue;
+}
+
+.fest {
+    color: orchid;
+}
+
+.road-to-developer {
+    background-color: #CD2AF6;
+    display: flex;
+    justify-content: center;
+    border-radius: 10px; 
+}
+
+.road-to-developer>div {
+    width: 400px;
+    font-size: 35px;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 10px; 
+
+}
+
+.road-to-developer img {
+    width: 100%;
+}
+
+#first {
+    background-color: tomato;
+}
+
+#second {
+    background-color: lightsalmon;
+}
+
+#third {
+    background-color: purple;
+}
+
+#Programming {
+    color: lightgreen;
+}
+
+#Optimization {
+    color: tomato;
+}
+
+#margin {
+    margin-top: 200px;
+}
+
+.additional-skills-area img {
+    width: 80%;
+}
+
+.Further-Skill {
+    display: flex;
+}
+
+.SEO-Color {
+    color: orange;
+}
+
+.Pyt-Color {
+    color: orange;
+}
+
+.additional-skill-item {
+    box-shadow: 10px 10px 40px grey;
+    width: 100%;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+
+
+.adventure {
+    color: white;
+}
+
+.calender-2022 {
+    color: tomato
+}
+
+.elements {
+    color: coral;
+}
+
+.advice {
+    color: red;
+}
+
+#py-language {
+    color: aqua;
+}
+
+#S-optimize {
+    color: salmon;
+}
+
+.moto {
+    color: white;
+}
+
+footer {
+    text-align: center;
+    background-color: black;
+
+}
+
